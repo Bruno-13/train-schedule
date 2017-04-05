@@ -1,0 +1,39 @@
+.jumbotron {
+	height: 200px;
+	background-color: #174375;
+	min-width: 600px;
+	color: #fff;
+	text-align: center;
+}
+
+.panel > .panel-heading, .btn {
+	background-color: #174375;
+	text-align: center;
+}
+
+.form-group {
+	text-align: center;
+}
+
+.panel  {
+	min-width: 600px;
+}
+
+#form-center {
+	width: 600px;
+	display: block;
+	padding-top: 10px;
+	margin: 0 auto;
+}
+
+input {
+	margin-top: 3px;
+}
+
+.table-striped {
+	text-align: center;
+}
+
+th {
+	text-align: center;
+}
